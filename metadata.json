@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Imagen Generator",
+  "description": "A powerful tool to generate multiple images from a list of prompts using Google's Imagen API, with features like multi-key management, bulk downloading, and automatic retries.",
+  "requestFramePermissions": []
+}
